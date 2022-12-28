@@ -1,0 +1,14 @@
+﻿  DLL.c
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(26,139): error C2440: инициализация: невозможно преобразовать "HANDLE" в "HINSTANCE"
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(26,23): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(27,51): error C2440: инициализация: невозможно преобразовать "void *" в "LPWSTR"
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(27,20): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(80,28): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(96,39): error C2440: инициализация: невозможно преобразовать "void *" в "U *"
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(96,15): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(134,37): error C2440: инициализация: невозможно преобразовать "void *" в "U *"
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(134,11): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(136,43): error C2440: инициализация: невозможно преобразовать "void *" в "LPWSTR"
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(136,17): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(142,38): error C2440: =: невозможно преобразовать "void *" в "LPWSTR"
+D:\Проекты\DLLNiketys\DLLNiketys\Dl\DLL.c(142,20): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение

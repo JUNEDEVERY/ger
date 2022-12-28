@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\stron\OneDrive\Рабочий стол\DLLNiketys\DLLNiketys\main.c(17,1): warning C4113: "MyFunction1" отличается в списках параметров от "MyFunction2"
+C:\Users\stron\OneDrive\Рабочий стол\DLLNiketys\DLLNiketys\main.c(17,1): warning C4047: инициализация: "MyFunction2" отличается по уровням косвенного обращения от "MyFunction1"
+C:\Users\stron\OneDrive\Рабочий стол\DLLNiketys\DLLNiketys\main.c(70): warning C4715: WinMain: значение возвращается не при всех путях выполнения
+  DLLNiketys.vcxproj -> C:\Users\stron\OneDrive\Рабочий стол\DLLNiketys\Debug\DLLNiketys.exe
